@@ -27,8 +27,8 @@ I am seeking highly motivated MS/PhD students and Post-docs. Please email me you
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 We are thrilled to release our medical reasoning LLM [**hari-q3**](https://huggingface.co/snuh/hari-q3)(14B), which achieved 84.1% accuracy on the Korean Medical Licensing Exam (KMLE)!**
-- *2025.05*: &nbsp;🎉🎉 Our multi-lingual medical LLM [**hari-q2.5**](https://huggingface.co/snuh/hari-q2.5)(72B) has just been released, achieving 84.6% accuracy on the Korean Medical Licensing Exam (KMLE)! **
+- *2025.06*: &nbsp;🎉🎉 We are thrilled to release our medical reasoning LLM [**hari-q3**](https://huggingface.co/snuh/hari-q3)(14B), which achieved 84.1% accuracy on the Korean Medical Licensing Exam (KMLE)!
+- *2025.05*: &nbsp;🎉🎉 Our multi-lingual medical LLM [**hari-q2.5**](https://huggingface.co/snuh/hari-q2.5)(72B) has just been released, achieving 84.6% accuracy on the Korean Medical Licensing Exam (KMLE)!
 - *2025.03*: &nbsp;🎉🎉 We released the [**ClinicalQA**](https://huggingface.co/datasets/snuh/ClinicalQA) dataset of over 1,000 high-quality question-answer pairs covering diverse clinical scenarios to enhance medical AI development and benchmarking.
 
 
