@@ -54,6 +54,18 @@ My research focuses on biosignal processing, clinical natural language processin
 - *2020.10*, First Place (Minister's award), Military Personnel Hackathon, Ministry of National Defense [[Media]](https://www.sedaily.com/NewsView/22NQ1ECG58)
 
 
+# 🧑‍⚕️ Professional Experiences
+- *2022.05 - 2025.08*, Research Professor, Seoul National University Hospital, South Korea
+- *2019.05 - 2022.04*, Medical Officer (Captain), Republic of Korea Army, South Korea
+- *2015.03 - 2019.02*, Intern/Resident Doctor, Kyung Hee Medical Center, South Korea
+
+
+# 📖 Educations
+- *2018.09 - 2022.02*, Ph.D., Kyung Hee University, South Korea
+- *2016.03 - 2018.02*, M.S., Kyung Hee University, South Korea
+- *2009.03 - 2015.02*, M.D.(Doctor of Korean Medicine), Kyung Hee University, South Korea
+- 
+
 # 💬 Invited Talks
 - *2025.09*, Recent Trends of AI research Using Healthcare Data, Korea Institute of Science and Technology Information (KISTI)
 - *2025.09*, Recent Trends in AI Research and Clinical Applications, ROK Armed Forces Medical Command  
@@ -83,18 +95,6 @@ My research focuses on biosignal processing, clinical natural language processin
 - *2021.11*, Military Medicine and Medical AI, Korea Institute of Oriental Medicine  
 
 
-# 🧑‍⚕️ Professional Experiences
-- *2022.05 - 2025.08*, Research Professor, Seoul National University Hospital, South Korea
-- *2019.05 - 2022.04*, Medical Officer (Captain), Republic of Korea Army, South Korea
-- *2015.03 - 2019.02*, Intern/Resident Doctor, Kyung Hee Medical Center, South Korea
-
-
-# 📖 Educations
-- *2018.09 - 2022.02*, Ph.D., Kyung Hee University, South Korea
-- *2016.03 - 2018.02*, M.S., Kyung Hee University, South Korea
-- *2009.03 - 2015.02*, M.D.(Doctor of Korean Medicine), Kyung Hee University, South Korea
-
-  
 # 📚 Lectures
 - *2025 Fall*, Medicine and Data Science, Medical Research 2
 - *2023 Fall*, Medicine and Data Science [[Material]](https://github.com/HyeonhoonLee/SNUCM_AI)
