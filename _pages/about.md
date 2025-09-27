@@ -26,6 +26,7 @@ My research interests include biosignal processing, natural language processing 
 🚀 **I am seeking highly motivated MS/PhD students and Post-docs!** Please email me your **CV** to join our mission of advancing clinical AI ✨.
 
 
+
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 We are thrilled to release our medical reasoning LLM [**hari-q3**](https://huggingface.co/snuh/hari-q3)(14B), which achieved 84.1% accuracy on the Korean Medical Licensing Exam (KMLE)!
 - *2025.05*: &nbsp;🎉🎉 Our multi-lingual medical LLM [**hari-q2.5**](https://huggingface.co/snuh/hari-q2.5)(72B) has just been released, achieving 84.6% accuracy on the Korean Medical Licensing Exam (KMLE)!
