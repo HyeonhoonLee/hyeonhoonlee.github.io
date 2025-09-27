@@ -42,16 +42,16 @@ My research focuses on biosignal processing, clinical natural language processin
 
 
 # 🎖 Honors and Awards
-- *2024.11* Minister's Commendation (Emerging young investigator), Award for distinguished health technology promotion, Ministry of Health and Welfare
-- *2024.06* Top 30 Healthcare R&D Excellence Achievements, Ministry of Health and Welfare
-- *2024.06* Best Poster Award, Korean Society of Medical Informatics (KoSMI)
-- *2023.01* Honorable Mention, Society of Technology in Anesthesia (STA)
-- *2021.12* Grand Prize (Future talent award), The Association of Korean Medicine
-- *2021.12* First Place, Military Medical ICT Convergence Idea Contest, ROK Armed Forces Medical Command
-- *2021.11* First Place, Bio-signal/EMR AI Specialist Program, Korea Human Resource Development Institute for Health and Welfare
-- *2021.11* Academic Excellence Award, 52nd Military Medicine and 2021 International Military Trauma Conference, ROK Armed Forces Medical Command
-- *2021.08* Asan Medical Device Innovation Studio 2021 Shark Tank Competition, Asan Institute for Convergence Science and Medicine
-- *2020.10* First Place (Minister's award) Military Personnel Hackathon, Ministry of National Defense [[Media]](https://www.sedaily.com/NewsView/22NQ1ECG58)
+- *2024.11*, Minister's Commendation (Emerging young investigator), Award for distinguished health technology promotion, Ministry of Health and Welfare
+- *2024.06*, Top 30 Healthcare R&D Excellence Achievements, Ministry of Health and Welfare
+- *2024.06*, Best Poster Award, Korean Society of Medical Informatics (KoSMI)
+- *2023.01*, Honorable Mention, Society of Technology in Anesthesia (STA)
+- *2021.12*, Grand Prize (Future talent award), The Association of Korean Medicine
+- *2021.12*, First Place, Military Medical ICT Convergence Idea Contest, ROK Armed Forces Medical Command
+- *2021.11*, First Place, Bio-signal/EMR AI Specialist Program, Korea Human Resource Development Institute for Health and Welfare
+- *2021.11*, Academic Excellence Award, 52nd Military Medicine and 2021 International Military Trauma Conference, ROK Armed Forces Medical Command
+- *2021.08*, Asan Medical Device Innovation Studio 2021 Shark Tank Competition, Asan Institute for Convergence Science and Medicine
+- *2020.10*, First Place (Minister's award) Military Personnel Hackathon, Ministry of National Defense [[Media]](https://www.sedaily.com/NewsView/22NQ1ECG58)
 
 
 # 🧑‍⚕️ Professional Experiences
