@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an assistant professor in the Department of Transdisciplinary Medicine and the Healthcare AI Research Institute at Seoul National University Hospital and Seoul National University College of Medicine. I also serve as the professor in charge of the Center for Data Innovation at the [National Strategic Technology Research Institute](https://nstri-en.snuh.org/), where I work to build the [Korea Health Data Platform](https://khdp.net) for global collaboration. I was selected as an [Emerging Young Investigator](http://www.bosa.co.kr/news/articleView.html?idxno=2236647) by the Ministry of Health and Welfare of the Republic of Korea in 2024. In 2025, I joined the editorial team of [*npj Digital Medicine*](https://www.nature.com/npjdigitalmed/), the leading medical AI journal, as an associate editor.
+I am an assistant professor in the Department of Transdisciplinary Medicine and the Healthcare AI Research Institute at Seoul National University Hospital and Seoul National University College of Medicine. I also serve as the professor in charge of the Center for Data Innovation at the [National Strategic Technology Research Institute](https://nstri-en.snuh.org/), where I work to build the [Korea Health Data Platform](https://khdp.net/) for global collaboration, and I am a member of VitalLab, where I contribute to a range of government-funded research projects such as the [Korea-US Innovative R&D Ininitative](https://www.investkorea.org/ik-en/bbs/i-465/detail.do?ntt_sn=492488) and the Sejong Science Fellowship.
+
+I was selected as an [Emerging Young Investigator](http://www.bosa.co.kr/news/articleView.html?idxno=2236647) by the Ministry of Health and Welfare of the Republic of Korea in 2024. In 2025, I joined the editorial team of [*npj Digital Medicine*](https://www.nature.com/npjdigitalmed/), the leading medical AI journal, as an associate editor.
 
 My research interests include biosignal processing, natural language processing (large language models), reinforcement learning, and multi-agent systems. I apply these methods to multimodal clinical data such as biosignals, clinical texts, medical imaging, and electronic health records, with the goal of developing AI models for real-time patient monitoring, prognosis prediction, and personalized treatment planning. I have authored more than 40 peer-reviewed publications in leading medical AI journals (_npj Digital Medicine_, _JMIR_) and international AI conferences (_NeurIPS_, _EMNLP_).
 
@@ -25,9 +27,9 @@ I am seeking highly motivated MS/PhD students and Post-docs. Please email me you
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 We are thrilled to release our medical reasoning LLM [`hari-q3`](https://huggingface.co/snuh/hari-q3)(14B), which achieved 84.1% accuracy on the Korean Medical Licensing Exam (KMLE)!**
-- *2025.05*: &nbsp;🎉🎉 Our multi-lingual medical LLM [`hari-q2.5`](https://huggingface.co/snuh/hari-q2.5)(72B) has just been released, achieving 84.6% accuracy on the Korean Medical Licensing Exam (KMLE)! **
-- *2025.03*: &nbsp;🎉🎉 We released the [`ClinicalQA`](https://huggingface.co/datasets/snuh/ClinicalQA) dataset of over 1,000 high-quality question-answer pairs covering diverse clinical scenarios to enhance medical AI development and benchmarking.
+- *2025.06*: &nbsp;🎉🎉 We are thrilled to release our medical reasoning LLM [**hari-q3**](https://huggingface.co/snuh/hari-q3)(14B), which achieved 84.1% accuracy on the Korean Medical Licensing Exam (KMLE)!**
+- *2025.05*: &nbsp;🎉🎉 Our multi-lingual medical LLM [**hari-q2.5**](https://huggingface.co/snuh/hari-q2.5)(72B) has just been released, achieving 84.6% accuracy on the Korean Medical Licensing Exam (KMLE)! **
+- *2025.03*: &nbsp;🎉🎉 We released the [**ClinicalQA**](https://huggingface.co/datasets/snuh/ClinicalQA) dataset of over 1,000 high-quality question-answer pairs covering diverse clinical scenarios to enhance medical AI development and benchmarking.
 
 
 # 📝 Selected Publications
