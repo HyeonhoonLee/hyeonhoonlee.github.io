@@ -57,7 +57,7 @@ My research interests include biosignal processing, clinical natural language pr
 # 🧑‍⚕️ Professional Experiences
 - *2022.05 - 2025.08*, Research Professor, Seoul National University Hospital, South Korea
 - *2019.05 - 2022.04*, Medical Officer (Captain), Republic of Korea Army, South Korea
-- *2015.03 - 2022.02*, Intern/Resident Doctor, Kyung Hee Medical Center, South Korea
+- *2015.03 - 2019.02*, Intern/Resident Doctor, Kyung Hee Medical Center, South Korea
 
 
 # 📖 Educations
