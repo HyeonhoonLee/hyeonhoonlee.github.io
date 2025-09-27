@@ -66,8 +66,8 @@ My research focuses on biosignal processing, clinical natural language processin
 - *2009.03 - 2015.02*, M.D.(Doctor of Korean Medicine), Kyung Hee University, South Korea
 
 # 💬 Invited Talks
-- *2025.09*, Recent trends of AI research using healthcare data, Korea Institute of Science and Technology Information (KISTI)
-- *2025.09*, Recent trends of development and clinical application of AI, ROK Armed Forces Medical Command  
+- *2025.09*, Recent Trends of AI research Using Healthcare Data, Korea Institute of Science and Technology Information (KISTI)
+- *2025.09*, Recent Trends in AI Research and Clinical Applications, ROK Armed Forces Medical Command  
 - *2025.09*, Biosignal AI and Clinical LLMs, Kyung Hee Medical Center at Gangdong
 - *2025.04*, Duke Critical/Acute Care Datathon: Symposium, Duke University  
 - *2025.03*, Healthcare AI Research Human Resource Training Program – Medical LLM, Seoul National University Hospital  
