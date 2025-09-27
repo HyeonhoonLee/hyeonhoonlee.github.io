@@ -23,7 +23,7 @@ My work has been recognized through several prestigious honors, including [Top 3
 
 My research focuses on biosignal processing, clinical natural language processing ([large language models](https://www.hankyung.com/article/2025032611361)), reinforcement learning, and multi-agent systems. Leveraging these methods on multimodal clinical data such as biosignals, clinical texts, medical imaging, and electronic health records, my work aims to develop AI models for real-time patient monitoring, prognosis prediction, and personalized treatment planning. I've published more than 40 peer-reviewed articles in leading medical AI journals (_npj Digital Medicine_, _JMIR_) and international AI conferences (_NeurIPS_, _EMNLP_).
 
-🚀 **I am seeking highly motivated MS/PhD students and Post-docs!** Feel free to email me your CV at [hhoon@snu.ac.kr](mailto:hhoon@snu.ac.kr) if you'd like to join our mission of advancing clinical AI✨.
+🚀 **I am seeking highly motivated MS/PhD students and Post-docs!** Feel free to [email me](mailto:hhoon@snu.ac.kr) your CV if you'd like to join our mission of advancing clinical AI✨.
 
 
 
