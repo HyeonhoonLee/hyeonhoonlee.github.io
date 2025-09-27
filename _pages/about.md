@@ -21,7 +21,7 @@ I am an assistant professor in the Department of Transdisciplinary Medicine and 
 
 My work has been recognized through several prestigious honors, including Top 30 Healthcare R&D Excellence Achievements (2024) and selection as an [Emerging Young Investigator](http://www.bosa.co.kr/news/articleView.html?idxno=2236647) (2024) by the Ministry of Health and Welfare of the Republic of Korea. In 2025, I joined the editorial team of [*npj Digital Medicine*](https://www.nature.com/npjdigitalmed/), the leading medical AI journal, as an associate editor.
 
-My research interests include biosignal processing, clinical natural language processing ([large language models](https://www.hankyung.com/article/2025032611361)), reinforcement learning, and multi-agent systems. I apply these methods to multimodal clinical data such as biosignals, clinical texts, medical imaging, and electronic health records, with the goal of developing AI models for real-time patient monitoring, prognosis prediction, and personalized treatment planning. I've published more than 40 peer-reviewed articles in leading medical AI journals (_npj Digital Medicine_, _JMIR_) and international AI conferences (_NeurIPS_, _EMNLP_).
+My research focuses on biosignal processing, clinical natural language processing ([large language models](https://www.hankyung.com/article/2025032611361)), reinforcement learning, and multi-agent systems. Leveraging these methods on multimodal clinical data such as biosignals, clinical texts, medical imaging, and electronic health records, my work aims to develop AI models for real-time patient monitoring, prognosis prediction, and personalized treatment planning. I've published more than 40 peer-reviewed articles in leading medical AI journals (_npj Digital Medicine_, _JMIR_) and international AI conferences (_NeurIPS_, _EMNLP_).
 
 🚀 **I am seeking highly motivated MS/PhD students and Post-docs!** Please email me your **CV** to join our mission of advancing clinical AI✨.
 
@@ -93,4 +93,6 @@ My research interests include biosignal processing, clinical natural language pr
 - *2022.05*, How to Utilize Medical AI in Education, Korea Human Resource Development Institute for Health and Welfare  
 - *2021.11*, Military Medicine and Medical AI, Korea Institute of Oriental Medicine  
 
-
+# 📚 Lectures
+- *2025 Fall*, Medicine and Data Science, Medical Research 2
+- *2023 Fall*, Medicine and Data Science [[Material](https://github.com/HyeonhoonLee/SNUCM_AI)
