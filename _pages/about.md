@@ -23,7 +23,7 @@ I was selected as an [Emerging Young Investigator](http://www.bosa.co.kr/news/ar
 
 My research interests include biosignal processing, natural language processing (large language models), reinforcement learning, and multi-agent systems. I apply these methods to multimodal clinical data such as biosignals, clinical texts, medical imaging, and electronic health records, with the goal of developing AI models for real-time patient monitoring, prognosis prediction, and personalized treatment planning. I have authored more than 40 peer-reviewed publications in leading medical AI journals (_npj Digital Medicine_, _JMIR_) and international AI conferences (_NeurIPS_, _EMNLP_).
 
-🚀 **I am seeking highly motivated MS/PhD students and Post-docs!** Please email me your **CV** to join our mission of advancing clinical AI ✨.
+🚀 **I am seeking highly motivated MS/PhD students and Post-docs!** Please email me your **CV** to join our mission of advancing clinical AI✨.
 
 
 
