@@ -21,7 +21,7 @@ I am an assistant professor in the Department of Transdisciplinary Medicine and 
 
 My work has been recognized through several prestigious honors, including Top 30 Healthcare R&D Excellence Achievements (2024) and selection as an [Emerging Young Investigator](http://www.bosa.co.kr/news/articleView.html?idxno=2236647) (2024) by the Ministry of Health and Welfare of the Republic of Korea. In 2025, I joined the editorial team of [*npj Digital Medicine*](https://www.nature.com/npjdigitalmed/), the leading medical AI journal, as an associate editor.
 
-My research interests include biosignal processing, clinical natural language processing (large language models), reinforcement learning, and multi-agent systems. I apply these methods to multimodal clinical data such as biosignals, clinical texts, medical imaging, and electronic health records, with the goal of developing AI models for real-time patient monitoring, prognosis prediction, and personalized treatment planning. I've published more than 40 peer-reviewed articles in leading medical AI journals (_npj Digital Medicine_, _JMIR_) and international AI conferences (_NeurIPS_, _EMNLP_).
+My research interests include biosignal processing, clinical natural language processing ([large language models](https://www.hankyung.com/article/2025032611361)), reinforcement learning, and multi-agent systems. I apply these methods to multimodal clinical data such as biosignals, clinical texts, medical imaging, and electronic health records, with the goal of developing AI models for real-time patient monitoring, prognosis prediction, and personalized treatment planning. I've published more than 40 peer-reviewed articles in leading medical AI journals (_npj Digital Medicine_, _JMIR_) and international AI conferences (_NeurIPS_, _EMNLP_).
 
 🚀 **I am seeking highly motivated MS/PhD students and Post-docs!** Please email me your **CV** to join our mission of advancing clinical AI✨.
 
@@ -51,7 +51,7 @@ My research interests include biosignal processing, clinical natural language pr
 - *2021.11* First Place, Bio-signal/EMR AI Specialist Program, Korea Human Resource Development Institute for Health and Welfare
 - *2021.11* Academic Excellence Award, 52nd Military Medicine and 2021 International Military Trauma Conference, ROK Armed Forces Medical Command
 - *2021.08* Asan Medical Device Innovation Studio 2021 Shark Tank Competition, Asan Institute for Convergence Science and Medicine
-- *2020.10* First Place (Minister's award) Military Personnel Hackathon, Ministry of National Defense
+- *2020.10* First Place (Minister's award) Military Personnel Hackathon, Ministry of National Defense [[Media]](https://www.sedaily.com/NewsView/22NQ1ECG58)
 
 
 # 🧑‍⚕️ Professional Experiences
