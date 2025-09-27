@@ -50,10 +50,16 @@ I am seeking highly motivated MS/PhD students and Post-docs. Please email me you
 - *2021.08* Asan Medical Device Innovation Studio 2021 Shark Tank Competition, Asan Institute for Convergence Science and Medicine
 - *2020.10* First Place (Minister's award) Military Personnel Hackathon, Ministry of National Defense
 
+
+# 🧑‍⚕️ Professional Experiences
+- *2022.05 - 2025.08*, Research Professor, Seoul National University Hospital, South Korea
+- *2019.05 - 2022.04*, Medical Officer (Captain), Republic of Korea Army, South Korea
+- *2015.03 - 2022.02*, Intern/Resident Doctor, Kyung Hee Medical Center, South Korea
+
+
 # 📖 Educations
 - *2018.09 - 2022.02*, Ph.D., Kyung Hee University, South Korea
 - *2016.03 - 2018.02*, M.S., Kyung Hee University, South Korea
-- *2015.03 - 2019.02*, Intern/Resident Doctor, Kyung Hee Medical Center, South Korea
 - *2009.03 - 2015.02*, M.D.(Doctor of Korean Medicine), Kyung Hee University, South Korea
 
 # 💬 Invited Talks
