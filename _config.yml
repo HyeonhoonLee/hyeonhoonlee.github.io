@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Hyeonhoon Lee"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/headshot.jpg"
   bio              : "Seoul National University Hospital"
   location         : "Seoul, Republic of Korea"
   employer         :
