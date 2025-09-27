@@ -64,7 +64,7 @@ My research focuses on biosignal processing, clinical natural language processin
 - *2018.09 - 2022.02*, Ph.D., Kyung Hee University, South Korea
 - *2016.03 - 2018.02*, M.S., Kyung Hee University, South Korea
 - *2009.03 - 2015.02*, M.D.(Doctor of Korean Medicine), Kyung Hee University, South Korea
-- 
+  
 
 # 💬 Invited Talks
 - *2025.09*, Recent Trends of AI research Using Healthcare Data, Korea Institute of Science and Technology Information (KISTI)
