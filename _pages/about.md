@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an assistant professor in the Department of Transdisciplinary Medicine and the Healthcare AI Research Institute at Seoul National University Hospital and Seoul National University College of Medicine. I also serve as the professor in charge of the Center for Data Innovation at the [National Strategic Technology Research Institute](https://nstri-en.snuh.org/), where I work to build the [Korea Health Data Platform](https://khdp.net) for global collaboration. I was selected as an [Emerging Young Investigator](http://www.bosa.co.kr/news/articleView.html?idxno=2236647) by the Ministry of Health and Welfare of the Republic of Korea in 2024. In 2025, I joined the editorial team of [*npj Digital Medicine*](https://www.nature.com/npjdigitalmed/), the leading medical AI journal (IF 15.2, JCR top 1%), as an associate editor.
+I am an assistant professor in the Department of Transdisciplinary Medicine and the Healthcare AI Research Institute at Seoul National University Hospital and Seoul National University College of Medicine. I also serve as the professor in charge of the Center for Data Innovation at the [National Strategic Technology Research Institute](https://nstri-en.snuh.org/), where I work to build the [Korea Health Data Platform](https://khdp.net) for global collaboration. I was selected as an [Emerging Young Investigator](http://www.bosa.co.kr/news/articleView.html?idxno=2236647) by the Ministry of Health and Welfare of the Republic of Korea in 2024. In 2025, I joined the editorial team of [*npj Digital Medicine*](https://www.nature.com/npjdigitalmed/), the leading medical AI journal, as an associate editor.
 
 My research interests include biosignal processing, natural language processing (large language models), reinforcement learning, and multi-agent systems. I apply these methods to multimodal clinical data such as biosignals, clinical texts, medical imaging, and electronic health records, with the goal of developing AI models for real-time patient monitoring, prognosis prediction, and personalized treatment planning. I have authored more than 40 peer-reviewed publications in leading medical AI journals (_npj Digital Medicine_, _JMIR_) and international AI conferences (_NeurIPS_, _EMNLP_).
 
@@ -31,10 +31,10 @@ I am seeking highly motivated MS/PhD students and Post-docs. Please email me you
 
 
 # 📝 Selected Publications
-- Comparison of NLP machine learning models with human physicians for ASA Physical Status classification, **_npj Digit Med_ 2024** [[Paper]](https://www.nature.com/articles/s41746-024-01259-6)
-- Reinforcement learning model for optimizing dexmedetomidine dosing to prevent delirium in critically ill patients, **_npj Digit Med_ 2024** [[Paper]](https://www.nature.com/articles/s41746-024-01335-x)
-- Real-time machine learning model to predict in-hospital cardiac arrest using heart rate variability in ICU, **_npj Digit Med_ 2023** [[Paper]](https://www.nature.com/articles/s41746-023-00960-2)
-- Development and validation of a reinforcement learning model for ventilation control during emergence from general anesthesia, **_npj Digit Med_ 2023** [[Paper]](https://www.nature.com/articles/s41746-023-00893-w)
+- Comparison of NLP machine learning models with human physicians for ASA Physical Status classification, **_npj Digit Med (IF 15.2, JCR top 1%)_ 2024** [[Paper]](https://www.nature.com/articles/s41746-024-01259-6)
+- Reinforcement learning model for optimizing dexmedetomidine dosing to prevent delirium in critically ill patients, **_npj Digit Med (IF 15.2, JCR top 1%)_ 2024** [[Paper]](https://www.nature.com/articles/s41746-024-01335-x)
+- Real-time machine learning model to predict in-hospital cardiac arrest using heart rate variability in ICU, **_npj Digit Med (IF 15.2, JCR top 1%)_ 2023** [[Paper]](https://www.nature.com/articles/s41746-023-00960-2)
+- Development and validation of a reinforcement learning model for ventilation control during emergence from general anesthesia, **_npj Digit Med (IF 15.2, JCR top 1%)_ 2023** [[Paper]](https://www.nature.com/articles/s41746-023-00893-w)
 - MDAgents: An adaptive collaboration of LLMs for medical decision-making, **_NeurIPS (oral)_ 2024** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/90d1fc07f46e31387978b88e7e057a31-Paper-Conference.pdf)
 
 
