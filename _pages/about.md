@@ -21,7 +21,7 @@ I am an assistant professor in the Department of Transdisciplinary Medicine and 
 
 My research interests include reinforcement learning, natural language processing, biosignal analysis, and multi-agent systems. I apply these methods to multimodal clinical data such as physiological signals, clinical texts, medical imaging, and electronic health records, with the goal of developing AI models for real-time patient monitoring, prognosis prediction, and personalized treatment planning. I have authored more than 40 peer-reviewed publications in leading medical AI journals (_npj Digital Medicine_, _JMIR_) and international AI conferences (_NeurIPS_, _EMNLP_).
 
-I am seeking highly motivated MS/PhD students and Post-docs. Please email me your CV at [hhoon@snu.ac.kr](mailto:hhoon@snu.ac.kr) 
+I am seeking highly motivated MS/PhD students and Post-docs. Please email me your CV at hhoon (at) snu.ac.kr
 
 
 # 🔥 News
@@ -41,7 +41,7 @@ I am seeking highly motivated MS/PhD students and Post-docs. Please email me you
 # 🎖 Honors and Awards
 - *2024.11* Minister's Commendation (Emerging young investigator), Award for distinguished service in health technology promotion, Ministry of Health and Welfare
 - *2024.06* Top 30 Excellent Achievements in Healthcare R&D projects, Ministry of Health and Welfare
-- *2024.06* Best Poster Award, Korean Society of Medical Informatics
+- *2024.06* Best Poster Award, Korean Society of Medical Informatics (KoSMI)
 - *2023.01* Honorable Mention, Society of Technology in Anesthesia (STA)
 - *2021.12* Grand Prize (Future talent award), The Association of Korean Medicine
 - *2021.12* First Place, Military Medical ICT Convergence Idea Contest, ROK Armed Forces Medical Command
@@ -79,7 +79,7 @@ I am seeking highly motivated MS/PhD students and Post-docs. Please email me you
 - *2022.12*, Development of an AI Chatbot Model to Improve Medical Services for Primary Care Users in Korea, Chung-Ang University  
 - *2022.10*, Introduction to AI Research Experience, Kyung Hee University  
 - *2022.09*, Development of a Medical AI Model for Predicting Drug Concentration, Korea Human Resource Development Institute for Health and Welfare  
-- *2022.08*, Development and validation of reinforcement learning model for smooth extubation in the operating room for surgical patients, Korean Society of Medical AI  
+- *2022.08*, Development and validation of reinforcement learning model for smooth extubation in the operating room for surgical patients, Korean Society of Artificial Intelligence in Medicine (KoSAIM)
 - *2022.07*, Case Studies of Biosignal Data Analysis Using AI, Korea Human Resource Development Institute for Health and Welfare  
 - *2022.05*, How to Utilize Medical AI in Education, Korea Human Resource Development Institute for Health and Welfare  
 - *2021.11*, Military Medicine and Medical AI, Korea Institute of Oriental Medicine  
