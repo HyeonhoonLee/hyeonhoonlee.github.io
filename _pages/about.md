@@ -31,11 +31,11 @@ I am seeking highly motivated MS/PhD students and Post-docs. Please email me you
 
 
 # 📝 Selected Publications
-- Comparison of NLP machine learning models with human physicians for ASA Physical Status classification, **npj Digi Med 2024** [paper](https://www.nature.com/articles/s41746-024-01259-6)
-- Reinforcement learning model for optimizing dexmedetomidine dosing to prevent delirium in critically ill patients, **npj Digit Med 2024** [paper](https://www.nature.com/articles/s41746-024-01335-x)
-- Real-time machine learning model to predict in-hospital cardiac arrest using heart rate variability in ICU, **npj Digit Med 2023** [paper](https://www.nature.com/articles/s41746-023-00960-2)
-- Development and validation of a reinforcement learning model for ventilation control during emergence from general anesthesia, **npj Digit Med 2023** [paper](https://www.nature.com/articles/s41746-023-00893-w)
-- MDAgents: An adaptive collaboration of LLMs for medical decision-making, **NeurIPS (oral) 2024** [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/90d1fc07f46e31387978b88e7e057a31-Paper-Conference.pdf)
+- Comparison of NLP machine learning models with human physicians for ASA Physical Status classification, **_npj Digit Med_ 2024** [paper](https://www.nature.com/articles/s41746-024-01259-6)
+- Reinforcement learning model for optimizing dexmedetomidine dosing to prevent delirium in critically ill patients, **_npj Digit Med_ 2024** [paper](https://www.nature.com/articles/s41746-024-01335-x)
+- Real-time machine learning model to predict in-hospital cardiac arrest using heart rate variability in ICU, **_npj Digit Med_ 2023** [paper](https://www.nature.com/articles/s41746-023-00960-2)
+- Development and validation of a reinforcement learning model for ventilation control during emergence from general anesthesia, **_npj Digit Med_ 2023** [paper](https://www.nature.com/articles/s41746-023-00893-w)
+- MDAgents: An adaptive collaboration of LLMs for medical decision-making, **_NeurIPS (oral)_ 2024** [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/90d1fc07f46e31387978b88e7e057a31-Paper-Conference.pdf)
 
 
 # 🎖 Honors and Awards
