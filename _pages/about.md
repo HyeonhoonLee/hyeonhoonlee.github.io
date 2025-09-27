@@ -63,7 +63,7 @@ I am seeking highly motivated MS/PhD students and Post-docs. Please email me you
 - *2009.03 - 2015.02*, M.D.(Doctor of Korean Medicine), Kyung Hee University, South Korea
 
 # 💬 Invited Talks
-- *2025.09*, Recent trends of AI research using healthcare data, Korea Institute of Science and Technology Institution (KISTI)
+- *2025.09*, Recent trends of AI research using healthcare data, Korea Institute of Science and Technology Information (KISTI)
 - *2025.09*, Recent trends of development and clinical application of AI, ROK Armed Forces Medical Command  
 - *2025.09*, Biosignal AI and Clinical LLMs, Kyung Hee Medical Center at Gangdong
 - *2025.04*, Duke Critical/Acute Care Datathon: Symposium, Duke University  
