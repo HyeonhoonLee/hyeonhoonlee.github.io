@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an assistant professor in the Department of Transdisciplinary Medicine and the Healthcare AI Research Institute at Seoul National University Hospital and Seoul National University College of Medicine. I also serve as the professor in charge of the Center for Data Innovation at the [National Strategic Technology Research Institute](https://nstri-en.snuh.org/), where I work to build the [Korea Health Data Platform](https://khdp.net/) for global collaboration, and I am a member of VitalLab, where I contribute to a range of government-funded research projects such as the [Korea-US Innovative R&D Initative](https://www.investkorea.org/ik-en/bbs/i-465/detail.do?ntt_sn=492488) and the Sejong Science Fellowship.
+I am an assistant professor in the Department of Transdisciplinary Medicine and the Healthcare AI Research Institute at Seoul National University Hospital and Seoul National University College of Medicine. I also serve as the professor in charge of the Center for Data Innovation at the [National Strategic Technology Research Institute](https://nstri-en.snuh.org/), where I work to build the [Korea Health Data Platform](https://khdp.net/) for global collaboration, and a member of VitalLab, where I contribute to a range of government-funded research projects such as the [Korea-US Innovative R&D Initative](https://www.investkorea.org/ik-en/bbs/i-465/detail.do?ntt_sn=492488) and the Sejong Science Fellowship.
 
-I was selected as an [Emerging Young Investigator](http://www.bosa.co.kr/news/articleView.html?idxno=2236647) by the Ministry of Health and Welfare of the Republic of Korea in 2024. In 2025, I joined the editorial team of [*npj Digital Medicine*](https://www.nature.com/npjdigitalmed/), the leading medical AI journal, as an associate editor.
+My work has been recognized through several prestigious honors, including Top 30 Healthcare R&D Excellence Achievements (2024) and selection as an [Emerging Young Investigator](http://www.bosa.co.kr/news/articleView.html?idxno=2236647) (2024) by the Ministry of Health and Welfare of the Republic of Korea. In 2025, I joined the editorial team of [*npj Digital Medicine*](https://www.nature.com/npjdigitalmed/), the leading medical AI journal, as an associate editor.
 
-My research interests include biosignal processing, natural language processing (large language models), reinforcement learning, and multi-agent systems. I apply these methods to multimodal clinical data such as biosignals, clinical texts, medical imaging, and electronic health records, with the goal of developing AI models for real-time patient monitoring, prognosis prediction, and personalized treatment planning. I have authored more than 40 peer-reviewed publications in leading medical AI journals (_npj Digital Medicine_, _JMIR_) and international AI conferences (_NeurIPS_, _EMNLP_).
+My research interests include biosignal processing, clinical natural language processing (large language models), reinforcement learning, and multi-agent systems. I apply these methods to multimodal clinical data such as biosignals, clinical texts, medical imaging, and electronic health records, with the goal of developing AI models for real-time patient monitoring, prognosis prediction, and personalized treatment planning. I've published more than 40 peer-reviewed articles in leading medical AI journals (_npj Digital Medicine_, _JMIR_) and international AI conferences (_NeurIPS_, _EMNLP_).
 
 🚀 **I am seeking highly motivated MS/PhD students and Post-docs!** Please email me your **CV** to join our mission of advancing clinical AI✨.
 
@@ -42,8 +42,8 @@ My research interests include biosignal processing, natural language processing 
 
 
 # 🎖 Honors and Awards
-- *2024.11* Minister's Commendation (Emerging young investigator), Award for distinguished service in health technology promotion, Ministry of Health and Welfare
-- *2024.06* Top 30 Excellent Achievements in Healthcare R&D projects, Ministry of Health and Welfare
+- *2024.11* Minister's Commendation (Emerging young investigator), Award for distinguished health technology promotion, Ministry of Health and Welfare
+- *2024.06* Top 30 Healthcare R&D Excellence Achievements, Ministry of Health and Welfare
 - *2024.06* Best Poster Award, Korean Society of Medical Informatics (KoSMI)
 - *2023.01* Honorable Mention, Society of Technology in Anesthesia (STA)
 - *2021.12* Grand Prize (Future talent award), The Association of Korean Medicine
