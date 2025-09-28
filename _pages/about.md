@@ -62,7 +62,7 @@ My research focuses on biosignal processing, clinical natural language processin
   
 
 # 💬 Invited Talks
-- *2025.09*, Recent Trends of AI research Using Healthcare Data, Korea Institute of Science and Technology Information (KISTI)
+- *2025.09*, Recent Trends in AI Research Using Healthcare Data, Korea Institute of Science and Technology Information (KISTI)
 - *2025.09*, Recent Trends in AI Research and Clinical Applications, ROK Armed Forces Medical Command  
 - *2025.09*, Biosignal AI and Clinical LLMs, Kyung Hee Medical Center at Gangdong
 - *2025.04*, Duke Critical/Acute Care Datathon: Symposium, Duke University  
