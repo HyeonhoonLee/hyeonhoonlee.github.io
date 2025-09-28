@@ -44,7 +44,7 @@ My research focuses on biosignal processing, clinical natural language processin
 # 🎖 Honors and Awards
 - *2024.11*, Minister's Commendation (Emerging Young Investigator), Award for Distinguished Health Technology Advancement, Ministry of Health and Welfare
 - *2024.06*, Top 30 Healthcare R&D Excellence Achievements, Ministry of Health and Welfare
-- *2024.06*, Best Poster Award, Korean Society of Medical Informatics (KoSMI)
+- *2024.06*, Best Poster Award, Korean Society of Medical Informatics (KOSMI)
 - *2023.01*, Honorable Mention, Society of Technology in Anesthesia (STA)
 - *2021.12*, Grand Prize (Future Talent Award), The Association of Korean Medicine
 - *2021.12*, First Place, Military Medical ICT Convergence Idea Contest, ROK Armed Forces Medical Command
