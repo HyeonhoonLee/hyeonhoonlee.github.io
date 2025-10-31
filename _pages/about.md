@@ -95,5 +95,5 @@ My research focuses on biosignal processing, clinical natural language processin
 
 # 📚 Lectures
 - *2025 Fall*, Medical Research 2
-- *2025 Fall*, Medicine and Data Science (Natural language processing, LLM)
+- *2025 Fall*, Medicine and Data Science (Natural language processing, LLM) [[Material]](https://github.com/HyeonhoonLee/SNUCM_Medical_DataScience_2025_Fall)
 - *2023 Fall*, Medicine and Data Science (Biosignal processing, LLM) [[Material]](https://github.com/HyeonhoonLee/SNUCM_AI)
