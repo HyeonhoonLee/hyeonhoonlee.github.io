@@ -76,7 +76,7 @@ My research focuses on biosignal processing, clinical natural language processin
 - *2024.02*, Large Language Models in Clinical Medicine, Gachon University  
 - *2023.12*, Introduction to Medical AI for Enhancing Military Medical Research Capabilities, ROK Armed Forces Medical Command  
 - *2023.12*, Transforming the Patient Journey with AI, Asan Medical Center  
-- *2023.11*, Introducing Medical AI into Korean Medicine Practice, Dong-eui University  
+- *2023.11*, Introducing Medical AI into Korean Medicine Practice, Dong-Eui University  
 - *2023.11*, Improving the Patient Care Pathway with AI, Chung-Ang University  
 - *2023.11*, Large Language Models in Medicine, The Society of Korean Medicine for Acupuncture & Moxibustion  
 - *2023.10*, Case Studies of AI Research Using High-Performance Infrastructure-based VitalDB, Seoul National University Hospital  
