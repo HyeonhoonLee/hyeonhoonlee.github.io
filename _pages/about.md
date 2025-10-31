@@ -63,6 +63,7 @@ My research focuses on biosignal processing, clinical natural language processin
   
 
 # 💬 Invited Talks
+- *2025.10*, The Future of AI-driven Hospital Information Systems, ezCaretech
 - *2025.10*, Recent Trends in AI Research and Clinical Applications, Dongguk University
 - *2025.09*, Recent Trends in AI Research Using Healthcare Data, Korea Institute of Science and Technology Information (KISTI)
 - *2025.09*, Recent Trends in AI Research and Clinical Applications, ROK Armed Forces Medical Command  
