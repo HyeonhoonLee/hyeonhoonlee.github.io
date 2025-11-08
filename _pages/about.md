@@ -63,6 +63,8 @@ My research focuses on biosignal processing, clinical natural language processin
   
 
 # 💬 Invited Talks
+- *2025.11*, Healthcare Big Data Platform and AI Research, Korea Health Information Service (K-HIS)
+- *2025.11*, Optimizing Dexmedetomidine Using Reinforcement Learning Model to Prevent Delirium in Critically Ill Patients, KoreAnesthesia 2025
 - *2025.10*, The Future of AI-driven Hospital Information Systems, ezCaretech
 - *2025.10*, Recent Trends in AI Research and Clinical Applications, Dongguk University
 - *2025.09*, Recent Trends in AI Research Using Healthcare Data, Korea Institute of Science and Technology Information (KISTI)
