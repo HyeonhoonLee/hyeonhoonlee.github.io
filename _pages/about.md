@@ -44,6 +44,7 @@ My research focuses on biosignal processing, clinical natural language processin
 
 
 # 🎖 Honors and Awards
+- *2025.11*, Finalist on i-to-i Innovation Hub in World Hospital Congress 2025, International Hospital Federation
 - *2024.11*, Minister's Commendation, Early Career Investigator Award for Distinguished Contributions in Health Technology Advancement, Ministry of Health and Welfare
 - *2024.06*, Top 30 Healthcare R&D Excellence Achievements, Ministry of Health and Welfare
 - *2024.06*, Best Poster Award, Korean Society of Medical Informatics (KOSMI)
@@ -66,7 +67,7 @@ My research focuses on biosignal processing, clinical natural language processin
 # 💬 Invited Talks
 - *2025.11*, Recent trends in medical LLM agents, Kangwon National University Hospital
 - *2025.11*, Toward Medical Superintelligence, Seoul National University Hospital
-- *2025.11*, Korea Health Data Platform, World Hospital Congress 2025 (selected as a shortlisted finalist for i-to-i Innovation Hub) [[Media]](https://www.youtube.com/watch?v=CMbsrBTvfcM)
+- *2025.11*, Korea Health Data Platform, World Hospital Congress 2025 [[Media]](https://www.youtube.com/watch?v=CMbsrBTvfcM)
 - *2025.11*, Healthcare Big Data Platform and AI Research, Korea Health Information Service (K-HIS)
 - *2025.11*, Optimizing Dexmedetomidine Using Reinforcement Learning Model to Prevent Delirium in Critically Ill Patients, KoreAnesthesia 2025
 - *2025.10*, The Future of AI-driven Hospital Information Systems, ezCaretech
