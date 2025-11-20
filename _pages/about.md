@@ -34,6 +34,7 @@ My research focuses on biosignal processing, clinical natural language processin
 
 
 # 📝 Selected Publications
+- Development of a deep learning-based prediction model for postoperative delirium using intraoperative electroencephalogram in adults, **_npj Digit Med (IF 15.1, JCR top 1%)_ 2025** [[Paper]](https://www.nature.com/articles/s41746-025-02033-y)
 - Multicenter validation of a scalable, interpretable, multitask prediction model for multiple clinical outcomes, **_npj Digit Med (IF 15.1, JCR top 1%)_ 2025** [[Paper]](https://www.nature.com/articles/s41746-025-01949-9) [[Media]](https://n.news.naver.com/mnews/article/421/0008595638?sid=105)
 - Comparison of NLP machine learning models with human physicians for ASA Physical Status classification, **_npj Digit Med (IF 12.4, JCR top 1%)_ 2024** [[Paper]](https://www.nature.com/articles/s41746-024-01259-6) [[Media]](https://www.edaily.co.kr/News/Read?newsId=02971686639057512&mediaCodeNo=257&OutLnkChk=Y)
 - Reinforcement learning model for optimizing dexmedetomidine dosing to prevent delirium in critically ill patients, **_npj Digit Med (IF 12.4, JCR top 1%)_ 2024** [[Paper]](https://www.nature.com/articles/s41746-024-01335-x) [[Media]](https://www.newsis.com/view/NISX20241216_0002998145)
