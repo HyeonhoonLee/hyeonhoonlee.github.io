@@ -34,15 +34,21 @@ My research focuses on biosignal processing, clinical natural language processin
 
 
 # 📝 Selected Publications
-- Efficacy of large language models in detecting postoperative delirium from unstructured clinical notes: A retrospective cohort study, **_npj Digit Med (IF 15.1, JCR top 1%)_ 2025** [[Paper]](https://www.nature.com/articles/s41746-025-02231-8)
-- Development of a deep learning-based prediction model for postoperative delirium using intraoperative electroencephalogram in adults, **_npj Digit Med (IF 15.1, JCR top 1%)_ 2025** [[Paper]](https://www.nature.com/articles/s41746-025-02033-y)
-- Multicenter validation of a scalable, interpretable, multitask prediction model for multiple clinical outcomes, **_npj Digit Med (IF 15.1, JCR top 1%)_ 2025** [[Paper]](https://www.nature.com/articles/s41746-025-01949-9) [[Media]](https://n.news.naver.com/mnews/article/421/0008595638?sid=105)
-- Multimodal deep learning to predict postoperative major adverse cardiac and cerebrovascular events after non-cardiac surgery, **_Int J Surg_ 2025** [[Paper]](https://journals.lww.com/international-journal-of-surgery/fulltext/2025/12000/multimodal_deep_learning_to_predict_postoperative.51.aspx)
-- Comparison of NLP machine learning models with human physicians for ASA Physical Status classification, **_npj Digit Med (IF 12.4, JCR top 1%)_ 2024** [[Paper]](https://www.nature.com/articles/s41746-024-01259-6) [[Media]](https://www.edaily.co.kr/News/Read?newsId=02971686639057512&mediaCodeNo=257&OutLnkChk=Y)
-- Reinforcement learning model for optimizing dexmedetomidine dosing to prevent delirium in critically ill patients, **_npj Digit Med (IF 12.4, JCR top 1%)_ 2024** [[Paper]](https://www.nature.com/articles/s41746-024-01335-x) [[Media]](https://www.newsis.com/view/NISX20241216_0002998145)
-- Real-time machine learning model to predict in-hospital cardiac arrest using heart rate variability in ICU, **_npj Digit Med (IF 15.2, JCR top 1%)_ 2023** [[Paper]](https://www.nature.com/articles/s41746-023-00960-2) [[Media]](https://www.news1.kr/life-culture/health-info/5262148)
-- Development and validation of a reinforcement learning model for ventilation control during emergence from general anesthesia, **_npj Digit Med (IF 15.2, JCR top 1%)_ 2023** [[Paper]](https://www.nature.com/articles/s41746-023-00893-w)
-- MDAgents: An adaptive collaboration of LLMs for medical decision-making, **_NeurIPS (oral)_ 2024** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/90d1fc07f46e31387978b88e7e057a31-Paper-Conference.pdf)
+**[2025]**
+- Efficacy of large language models in detecting postoperative delirium from unstructured clinical notes: A retrospective cohort study, **_npj Digit Med (IF 15.1, JCR top 1%)_** [[Paper]](https://www.nature.com/articles/s41746-025-02231-8)
+- Development of a deep learning-based prediction model for postoperative delirium using intraoperative electroencephalogram in adults, **_npj Digit Med (IF 15.1, JCR top 1%)_** [[Paper]](https://www.nature.com/articles/s41746-025-02033-y)
+- Multicenter validation of a scalable, interpretable, multitask prediction model for multiple clinical outcomes, **_npj Digit Med (IF 15.1, JCR top 1%)_** [[Paper]](https://www.nature.com/articles/s41746-025-01949-9) [[Media]](https://n.news.naver.com/mnews/article/421/0008595638?sid=105)
+- Multimodal deep learning to predict postoperative major adverse cardiac and cerebrovascular events after non-cardiac surgery, **_Int J Surg (IF 10.3)_** [[Paper]](https://journals.lww.com/international-journal-of-surgery/fulltext/2025/12000/multimodal_deep_learning_to_predict_postoperative.51.aspx)
+- BehaviorSFT: Behavioral Token Conditioning for Health Agents Across the Proactivity Spectrum, **_EMNLP (Findings)_** [[Paper]](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-emnlp.520.pdf)
+
+**[2024]**
+- Comparison of NLP machine learning models with human physicians for ASA Physical Status classification, **_npj Digit Med (IF 12.4, JCR top 1%)_** [[Paper]](https://www.nature.com/articles/s41746-024-01259-6) [[Media]](https://www.edaily.co.kr/News/Read?newsId=02971686639057512&mediaCodeNo=257&OutLnkChk=Y)
+- Reinforcement learning model for optimizing dexmedetomidine dosing to prevent delirium in critically ill patients, **_npj Digit Med (IF 12.4, JCR top 1%)_** [[Paper]](https://www.nature.com/articles/s41746-024-01335-x) [[Media]](https://www.newsis.com/view/NISX20241216_0002998145)
+- MDAgents: An adaptive collaboration of LLMs for medical decision-making, **_NeurIPS (oral)_** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/90d1fc07f46e31387978b88e7e057a31-Paper-Conference.pdf)
+
+**[2024]**
+- Real-time machine learning model to predict in-hospital cardiac arrest using heart rate variability in ICU, **_npj Digit Med (IF 15.2, JCR top 1%)_** [[Paper]](https://www.nature.com/articles/s41746-023-00960-2) [[Media]](https://www.news1.kr/life-culture/health-info/5262148)
+- Development and validation of a reinforcement learning model for ventilation control during emergence from general anesthesia, **_npj Digit Med (IF 15.2, JCR top 1%)_** [[Paper]](https://www.nature.com/articles/s41746-023-00893-w)
 
 
 # 🎖 Honors and Awards
