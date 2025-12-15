@@ -35,9 +35,9 @@ My research focuses on biosignal processing, clinical natural language processin
 
 # 📝 Selected Publications
 **[2025]**
-- Efficacy of large language models in detecting postoperative delirium from unstructured clinical notes: A retrospective cohort study, **_npj Digit Med (IF 15.1, JCR top 1%)_** [[Paper]](https://www.nature.com/articles/s41746-025-02231-8)
 - Development of a deep learning-based prediction model for postoperative delirium using intraoperative electroencephalogram in adults, **_npj Digit Med (IF 15.1, JCR top 1%)_** [[Paper]](https://www.nature.com/articles/s41746-025-02033-y)
 - Multicenter validation of a scalable, interpretable, multitask prediction model for multiple clinical outcomes, **_npj Digit Med (IF 15.1, JCR top 1%)_** [[Paper]](https://www.nature.com/articles/s41746-025-01949-9) [[Media]](https://n.news.naver.com/mnews/article/421/0008595638?sid=105)
+- Efficacy of large language models in detecting postoperative delirium from unstructured clinical notes: A retrospective cohort study, **_npj Digit Med (IF 15.1, JCR top 1%)_** [[Paper]](https://www.nature.com/articles/s41746-025-02231-8)
 - Multimodal deep learning to predict postoperative major adverse cardiac and cerebrovascular events after non-cardiac surgery, **_Int J Surg (IF 10.3)_** [[Paper]](https://journals.lww.com/international-journal-of-surgery/fulltext/2025/12000/multimodal_deep_learning_to_predict_postoperative.51.aspx)
 - BehaviorSFT: Behavioral Token Conditioning for Health Agents Across the Proactivity Spectrum, **_EMNLP (Findings)_** [[Paper]](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-emnlp.520.pdf)
 
