@@ -74,6 +74,9 @@ My research focuses on biosignal processing, clinical natural language processin
   
 
 # 💬 Invited Talks
+- *2025.12*, Korean Medical LLM and SNUH Agent Platform, Korea Health Information Service (K-HIS)
+- *2025.12*, Korean Medical LLM Agent for Military Medicine, ROK Armed Forces Medical Command
+- *2025.12*, SNUH Healthcare Agent Platform, The Association of Korean National University Hospital
 - *2025.11*, Recent trends in medical LLM agents, Kangwon National University Hospital
 - *2025.11*, Toward Medical Superintelligence, Seoul National University Hospital
 - *2025.11*, Korea Health Data Platform, World Hospital Congress 2025 [[Media]](https://www.youtube.com/watch?v=CMbsrBTvfcM)
