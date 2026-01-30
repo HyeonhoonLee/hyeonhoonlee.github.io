@@ -47,7 +47,7 @@ My research focuses on biosignal processing, clinical natural language processin
 - Reinforcement learning model for optimizing dexmedetomidine dosing to prevent delirium in critically ill patients, **_npj Digit Med (IF 12.4, JCR top 1%)_** [[Paper]](https://www.nature.com/articles/s41746-024-01335-x) [[Media]](https://www.newsis.com/view/NISX20241216_0002998145)
 - MDAgents: An adaptive collaboration of LLMs for medical decision-making, **_NeurIPS (oral)_** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/90d1fc07f46e31387978b88e7e057a31-Paper-Conference.pdf)
 
-**[2024]**
+**[2023]**
 - Real-time machine learning model to predict in-hospital cardiac arrest using heart rate variability in ICU, **_npj Digit Med (IF 15.2, JCR top 1%)_** [[Paper]](https://www.nature.com/articles/s41746-023-00960-2) [[Media]](https://www.news1.kr/life-culture/health-info/5262148)
 - Development and validation of a reinforcement learning model for ventilation control during emergence from general anesthesia, **_npj Digit Med (IF 15.2, JCR top 1%)_** [[Paper]](https://www.nature.com/articles/s41746-023-00893-w)
 
