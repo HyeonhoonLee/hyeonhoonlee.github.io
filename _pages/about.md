@@ -66,12 +66,17 @@ My research focuses on biosignal processing, clinical natural language processin
 - *2020.10*, First Place (Minister's Award), Military Personnel Hackathon, Ministry of National Defense [[Media]](https://www.sedaily.com/NewsView/22NQ1ECG58)
 
 
+# 🧩 Professional Service
+- *2026.01 – Present*, Committee Member, National Cancer Control Commission, South Korea
+- *2025.10 – Present*, Advisory Committee Member, Korea National Institute of Health, South Korea
+- *2025.08 – Present*, Advisory Committee Member, Korea Health Information Service, South Korea
+- *2025.05 – Present*, Associate Editor, _npj Digital Medicine_, Springer Nature 
+
 # 📖 Educations
 - *2018.09 - 2022.02*, Ph.D., Kyung Hee University, South Korea
 - *2016.03 - 2018.02*, M.S., Kyung Hee University, South Korea
 - *2015.03 - 2019.02*, Intern/Resident Doctor, Kyung Hee Medical Center, South Korea
 - *2009.03 - 2015.02*, M.D.(Doctor of Korean Medicine), Kyung Hee University, South Korea
-  
 
 # 💬 Invited Talks
 - *2025.12*, Korean Medical LLM and SNUH Agent Platform, Korea Health Information Service (K-HIS)
