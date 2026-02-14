@@ -66,7 +66,7 @@ My research focuses on biosignal processing, clinical natural language processin
 - *2020.10*, First Place (Minister's Award), Military Personnel Hackathon, Ministry of National Defense [[Media]](https://www.sedaily.com/NewsView/22NQ1ECG58)
 
 
-# 🧩 Professional Service
+# 🧩 Professional Services
 - *2026.01 – Present*, Committee Member, National Cancer Control Commission, South Korea
 - *2025.10 – Present*, Advisory Committee Member, Korea National Institute of Health, South Korea
 - *2025.08 – Present*, Advisory Committee Member, Korea Health Information Service, South Korea
