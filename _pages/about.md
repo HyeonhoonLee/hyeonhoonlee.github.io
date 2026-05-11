@@ -79,6 +79,7 @@ My research focuses on biosignal processing, clinical natural language processin
 - *2009.03 - 2015.02*, M.D.(Doctor of Korean Medicine), Kyung Hee University, South Korea
 
 # 💬 Invited Talks
+- *2026.05*, Toward Medical Sueprintelligence, KOSOMBE 2026
 - *2025.12*, Korean Medical LLM and SNUH Agent Platform, Korea Health Information Service (K-HIS)
 - *2025.12*, Korean Medical LLM Agent for Military Medicine, ROK Armed Forces Medical Command
 - *2025.12*, SNUH Healthcare Agent Platform, The Association of Korean National University Hospital
