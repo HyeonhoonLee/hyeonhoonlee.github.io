@@ -35,6 +35,9 @@ My research focuses on biosignal processing, clinical natural language processin
 
 
 # 📝 Selected Publications
+**[2026]**
+- Review of open foundation models and datasets for ECG and PPG waveforms, **_npj Digit Med (IF 18.0, JCR top 1%)_** [[Paper]](https://www.nature.com/articles/s41746-026-03101-7)
+
 **[2025]**
 - Development of a deep learning-based prediction model for postoperative delirium using intraoperative electroencephalogram in adults, **_npj Digit Med (IF 15.1, JCR top 1%)_** [[Paper]](https://www.nature.com/articles/s41746-025-02033-y)
 - Multicenter validation of a scalable, interpretable, multitask prediction model for multiple clinical outcomes, **_npj Digit Med (IF 15.1, JCR top 1%)_** [[Paper]](https://www.nature.com/articles/s41746-025-01949-9) [[Media]](https://n.news.naver.com/mnews/article/421/0008595638?sid=105)
