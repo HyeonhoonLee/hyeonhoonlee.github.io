@@ -28,6 +28,7 @@ My research focuses on biosignal processing, clinical natural language processin
 
 
 # 🔥 News
+- *2026.08*: 🎉🎉 Our team has been awarded a new KHIDI funded research project on regional cancer care (Jul 2026 to Dec 2030)! As Site PI at SNUH, in a nationwide consortium led by Pusan National University Hospital, we will develop AI risk stratification models for regional cancer patients and an AI driven multidisciplinary treatment support system (AI MDT) to strengthen the regional cancer care network.
 - *2025.12*: &nbsp;🎉🎉 We are thrilled to release a new medical reasoning LLM [**hari-q2.5-thinking**](https://huggingface.co/snuh/hari-q2.5-thinking)(72B), which achieved 89.2% accuracy on the Korean Medical Licensing Exam (KMLE) and 88.36% on the USMLE QA benchmark.
 - *2025.06*: &nbsp;🎉🎉 We are thrilled to release our medical reasoning LLM [**hari-q3-14b**](https://huggingface.co/snuh/hari-q3-14b), which achieved 84.1% accuracy on the Korean Medical Licensing Exam (KMLE)!
 - *2025.05*: &nbsp;🎉🎉 Our multi-lingual medical LLM [**hari-q2.5**](https://huggingface.co/snuh/hari-q2.5)(72B) has just been released, achieving 84.6% accuracy on the Korean Medical Licensing Exam (KMLE)!
