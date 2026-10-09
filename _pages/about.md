@@ -37,6 +37,7 @@ My research focuses on biosignal processing, clinical natural language processin
 
 # 📝 Selected Publications
 **[2026]**
+- AI-assisted scoping review of code sharing in clinical prediction model research, **_Nat Med (IF 52.5)_** [[Paper]](https://www.nature.com/articles/s41591-026-04691-1)
 - Review of open foundation models and datasets for ECG and PPG waveforms, **_npj Digit Med (IF 18.0, JCR top 1%)_** [[Paper]](https://www.nature.com/articles/s41746-026-03101-7)
 
 **[2025]**
