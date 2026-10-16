@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an assistant professor in the Department of Transdisciplinary Medicine and the Healthcare AI Research Institute at Seoul National University Hospital and Seoul National University College of Medicine. Also, I am the professor in charge of the Center for Data Innovation at the National Strategic Technology Research Institute, where I work to build the [Korea Health Data Platform](https://khdp.net/) for global collaboration, and a member of VitalLab, where I contribute to a range of government-funded research projects such as the [Korea-US Innovative R&D Initiative](https://www.investkorea.org/ik-en/bbs/i-465/detail.do?ntt_sn=492488), [NSTRI](https://nstri-en.snuh.org/), [K-MIMIC](https://sites.google.com/view/k-mimic/home), [Korean ARPA-H](https://www.koreabiomed.com/news/articleView.html?idxno=27698), [Multimodal Medical AI](https://www.healthcareitnews.com/news/asia/korea-expands-national-emr-and-more-korea-briefs), and the Sejong Science Fellowship.
+I am an assistant professor in the Department of Transdisciplinary Medicine and the Healthcare AI Research Institute at Seoul National University Hospital and Seoul National University College of Medicine. Also, I am the professor in charge of the Center for Data Innovation at the National Strategic Technology Research Institute, where I work to build the [Korea Health Data Platform](https://khdp.net/) for global collaboration, and a member of VitalLab, where I contribute to a range of government-funded research projects such as the [Korea-US Innovative R&D Initiative](https://www.investkorea.org/ik-en/bbs/i-465/detail.do?ntt_sn=492488), [NSTRI](https://nstri-en.snuh.org/), [K-MIMIC](https://sites.google.com/view/k-mimic/home), [Korean ARPA-H](https://www.sedaily.com/article/20093239), [Multimodal Medical AI](https://www.healthcareitnews.com/news/asia/korea-expands-national-emr-and-more-korea-briefs), and the Sejong Science Fellowship.
 
-My work has been recognized with several prestigious honors, including the [Top 30 Healthcare R&D Excellence Achievements](https://www.khidi.or.kr/board/view?linkId=48931488&menuId=MENU01435) (2024) and the [Early Career Investigator Award](http://www.bosa.co.kr/news/articleView.html?idxno=2236647) (2024) by the Ministry of Health and Welfare of the Republic of Korea. In 2025, I joined the editorial team of [*npj Digital Medicine*](https://www.nature.com/npjdigitalmed/), the leading medical AI journal, as an associate editor.
+My work has been recognized with several prestigious honors, including the [Top 30 Healthcare R&D Excellence Achievements](https://www.khidi.or.kr/board/view?linkId=48931488&menuId=MENU01435) (2024), the [Early Career Investigator Award](http://www.bosa.co.kr/news/articleView.html?idxno=2236647) (2024), and the [Minister's Commendation for Contributions to ICT based Healthcare Policy](https://economist.co.kr/article/view/ecn202609220069) (2026) by the Ministry of Health and Welfare of the Republic of Korea. In 2025, I joined the editorial team of [*npj Digital Medicine*](https://www.nature.com/npjdigitalmed/), the leading medical AI journal, as an associate editor.
 
 My research focuses on biosignal processing, clinical natural language processing ([large language models](https://www.hankyung.com/article/2025032611361)), reinforcement learning, and multi-agent systems. Leveraging these methods on multimodal clinical data such as biosignals, clinical texts, medical imaging, and electronic health records, my work aims to develop AI models for real-time patient monitoring, prognosis prediction, and personalized treatment planning. I've published more than 60 peer-reviewed articles in leading medical AI journals (_npj Digital Medicine_, _JMIR_) and international AI conferences (_NeurIPS_, _EMNLP_).
 
@@ -28,10 +28,10 @@ My research focuses on biosignal processing, clinical natural language processin
 
 
 # 🔥 News
-- *2026.07*: 🎉🎉 Our team has been awarded a new KHIDI-funded research project (total KRW 13.85B) on regional cancer care (Jul 2026 to Dec 2030)! As Site PI at SNUH, in a nationwide consortium led by Pusan National University Hospital, we will develop AI risk stratification models for regional cancer patients and an AI-driven multidisciplinary treatment support system (AI-MDT) to strengthen the regional cancer care network.
+- *2026.07*: 🎉🎉 Our team has been awarded a new KHIDI-funded research project (total KRW 13.85B) on regional cancer care (Jul 2026 to Dec 2030)! As Site PI at SNUH, we will develop AI risk stratification models for regional cancer patients and an AI-driven multidisciplinary treatment support system (AI-MDT) to strengthen the regional cancer care network, as part of a nationwide consortium led by Pusan National University Hospital.
 - *2025.12*: &nbsp;🎉🎉 We are thrilled to release a new medical reasoning LLM [**hari-q2.5-thinking**](https://huggingface.co/snuh/hari-q2.5-thinking)(72B), which achieved 89.2% accuracy on the Korean Medical Licensing Exam (KMLE) and 88.36% on the USMLE QA benchmark.
 - *2025.06*: &nbsp;🎉🎉 We are thrilled to release our medical reasoning LLM [**hari-q3-14b**](https://huggingface.co/snuh/hari-q3-14b), which achieved 84.1% accuracy on the Korean Medical Licensing Exam (KMLE)!
-- *2025.05*: &nbsp;🎉🎉 Our multi-lingual medical LLM [**hari-q2.5**](https://huggingface.co/snuh/hari-q2.5)(72B) has just been released, achieving 84.6% accuracy on the Korean Medical Licensing Exam (KMLE)!
+- *2025.05*: &nbsp;🎉🎉 Our multilingual medical LLM [**hari-q2.5**](https://huggingface.co/snuh/hari-q2.5)(72B) has just been released, achieving 84.6% accuracy on the Korean Medical Licensing Exam (KMLE)!
 - *2025.03*: &nbsp;🎉🎉 We released the [**ClinicalQA**](https://huggingface.co/datasets/snuh/ClinicalQA) dataset of over 1,000 high-quality question-answer pairs covering diverse clinical scenarios to enhance medical AI development and benchmarking.
 
 
@@ -58,6 +58,7 @@ My research focuses on biosignal processing, clinical natural language processin
 
 
 # 🎖 Honors and Awards
+- *2026.09*, Minister's Commendation, Distinguished Contributions to ICT-based Healthcare Policy, Ministry of Health and Welfare [[Media]](https://economist.co.kr/article/view/ecn202609220069)
 - *2025.11*, Finalist on i-to-i Innovation Hub in World Hospital Congress 2025, International Hospital Federation
 - *2024.11*, Minister's Commendation, Early Career Investigator Award for Distinguished Contributions in Health Technology Advancement, Ministry of Health and Welfare
 - *2024.06*, Top 30 Healthcare R&D Excellence Achievements, Ministry of Health and Welfare
@@ -84,7 +85,7 @@ My research focuses on biosignal processing, clinical natural language processin
 - *2009.03 - 2015.02*, M.D.(Doctor of Korean Medicine), Kyung Hee University, South Korea
 
 # 💬 Invited Talks
-- *2026.05*, Toward Medical Sueprintelligence, KOSOMBE 2026
+- *2026.05*, Toward Medical Superintelligence, KOSOMBE 2026
 - *2025.12*, Korean Medical LLM and SNUH Agent Platform, Korea Health Information Service (K-HIS)
 - *2025.12*, Korean Medical LLM Agent for Military Medicine, ROK Armed Forces Medical Command
 - *2025.12*, SNUH Healthcare Agent Platform, The Association of Korean National University Hospital
